@@ -1,0 +1,6 @@
+rait\bitweb\vote\model\Options$OptionsBuilder.class
+rait\bitweb\vote\model\Vote.class
+rait\bitweb\vote\model\Options.class
+rait\bitweb\vote\Application.class
+rait\bitweb\vote\controller\RequestController.class
+rait\bitweb\vote\model\Vote$VoteBuilder.class
